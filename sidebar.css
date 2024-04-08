@@ -21,7 +21,7 @@ header{
     justify-content: space-between;
     padding: 20px;
     margin: 0px 80px;
-    /* Yaziya clickledikde '/' isaresini yayandirmaq ucun */
+    /* Yaziya clickledikde '/' isaresini dayandirmaq ucun */
     -webkit-user-select: none; 
     -moz-user-select: none;
     -ms-user-select: none; 
